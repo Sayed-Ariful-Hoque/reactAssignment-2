@@ -5,8 +5,9 @@ import TeamMemberCard from './commponent/TeamMemberCard'
 const App = () => {
   const frontEndTeamMember = [
     { id: 3, name: "Ariful", email: "ariful@gmail.com", address: "mirpur 13" },
-    { id: 2, name: "mehedi Vai", email: "mahedivai@gmail.com", address: "shewrapara" },
-    { id: 1, name: "Daisy Apu", email: "daisyApu@gmail.com", address: "24 north kafrul" },
+    { id: 2, name: "Mahedi Vai", email: "Mahedivai@gmail.com", address: "shewrapara" },
+    { id: 1, name: "Daisy Apu", email: "daisyapu@gmail.com", address: "24 north kafrul" },
+    { id: 1, name: "Humaira Apu", email: "humairaapu@gmail.com", address: "uttara" },
   ]
   return (
     <>
